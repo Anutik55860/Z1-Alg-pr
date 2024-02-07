@@ -1,0 +1,5 @@
+import math
+#1)
+X=int(input"x:")
+Y=int(input"y:")
+A=(math.sqrt(math.fabs(x-1))-(msth.sqrt(math.fabs(y)))/ 1+ (x,2)/2
