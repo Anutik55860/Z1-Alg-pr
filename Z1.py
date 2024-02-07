@@ -1,4 +1,4 @@
-__import__math 
+import math 
 N=int(input ("Vvedite N:"))
 A= int (input ("Vvedite A:"))
 B= int(input ("Vvedite B:")
